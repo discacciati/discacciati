@@ -2,8 +2,7 @@
 
 
 Programming for me is to unveil a new world! 
-I'm a Full Stack developer with skills in Javascript, ReactJs,
-Typescript, NodeJs, SQL, PostgreSQL, Docker and Python.
+I'm a Full Stack developer with skills in Java, Spring, Javascript, NodeJs, Express, Typescript, ReactJs, SQL, PostgreSQL, Docker, Python and Django.
 
 - :seedling: I'm currently learning Phyton.
 
